@@ -5,7 +5,7 @@ Windows Defender Privilege Escalation PoC — Local Privilege Escalation to `NT 
 
 > **DISCLAIMER:** This project is strictly for educational and authorized security research purposes only. Unauthorized use of this code against systems you do not own or have explicit permission to test is illegal and unethical. The author is not responsible for any misuse.
 
-> **Zero-Day Notice:** As of the time of writing, this vulnerability is unpatched and works against the latest Windows 10/11 builds with current Defender definitions. This is a 0-day — Microsoft can patch it at any time via Windows Update or a Defender definition push. If the exploit breaks after an update, the race window was likely closed or the Tiering Engine service loading was hardened. No guarantee of longevity.
+> **Zero-Day Notice:** As of the time of writing (22 April 2026), this vulnerability is unpatched and works against the latest Windows 10/11 builds with current Defender definitions. This is a 0-day — Microsoft can patch it at any time via Windows Update or a Defender definition push. If the exploit breaks after an update, the race window was likely closed or the Tiering Engine service loading was hardened. No guarantee of longevity. CREDITS - https://github.com/Nightmare-Eclipse/RedSun
 
 ---
 
