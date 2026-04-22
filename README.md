@@ -1,4 +1,5 @@
 # Burning Sun
+> The sun doesn't ask for permission to rise. Neither do we.
 
 Windows Defender Privilege Escalation PoC — Local Privilege Escalation to `NT AUTHORITY\SYSTEM` via race condition in the Defender real-time protection signature update pipeline.
 
